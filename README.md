@@ -4,7 +4,7 @@
  	<div style="flex: 1; padding: 0px;">
     <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Beaming%20Face%20with%20Smiling%20Eyes.png" alt="Beaming Face with Smiling Eyes" height="200" />
   </div>
-  <div style="flex: 3; padding: 10px;">
+  <div style="flex: 4; padding: 0px;">
     <p>🌏 Now，I am in <strong>Beijing-China</strong></p>
     <p>🎓 University：<strong>SSPU <em>2018-2022</em></strong></p>
     <p>💻 My skills：<strong><em>C/C++、Java、Python、Qt、OpenCV、MySQL ......</em></strong></p>
