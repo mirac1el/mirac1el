@@ -2,7 +2,7 @@
 
 <div style="display: flex;">
  	<div style="flex: 1; padding: 0px;">
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Beaming%20Face%20with%20Smiling%20Eyes.png" alt="Beaming Face with Smiling Eyes" height="200" />
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Beaming%20Face%20with%20Smiling%20Eyes.png" alt="Beaming Face with Smiling Eyes" height="100" />
   </div>
   <div style="flex: 4; padding: 0px;">
     <p>🌏 Now，I am in <strong>Beijing-China</strong></p>
