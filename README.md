@@ -1,16 +1,16 @@
 ## 👋 Hi, I’m Miracle
 
-<div style="display: flex;">
-  <div style="flex: 1; padding: 10px;">
-    <p>🌏 Now，I am in <strong>Beijing-China</strong></p>
-    <p>🎓 University：<strong>SSPU <em>2018-2022</em></strong></p>
-    <p>💻 My skills：<strong><em>C/C++、Java、Python、Qt、OpenCV</em></strong></p>
-    <p>🎯 Focus areas：WEB、InfoSec、IC、EDA、AI、Game ......</p>
-    <p>📖 I am learning：Go、Vue.js、PyTorch ......</p>
-    <p>😀<strong>This is my blog：</strong> <a href="http://www.cnmiracle.com/">http://www.cnmiracle.com/</a></p>
-  </div>
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Beaming%20Face%20with%20Smiling%20Eyes.png" alt="Beaming Face with Smiling Eyes" style="max-width: 100%; height: auto;align="right"">
-</div>
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Beaming%20Face%20with%20Smiling%20Eyes.png"/>:earth_asia:Now，I am in **Beijing-China** 
+
+:mortar_board:University：**SSPU *2018-2022*** 
+
+:computer:My skills：***C/C++、Java、Python、Qt、OpenCV、MySQL ......*** 
+
+:dart:Focus areas：WEB、InfoSec、IC、EDA、AI、Game ...... 
+
+:book:I am learning： Go、Vue.js、PyTorch ...... 
+
+:grin:**This is my blog：** http://www.cnmiracle.com/
 
 ---
 
