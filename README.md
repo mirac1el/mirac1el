@@ -16,10 +16,10 @@
 
  [![My Skills](https://skillicons.dev/icons?i=windows,powershell,linux,bash,vim,neovim,redhat,ubuntu,debian,arch,kali,git,github,docker)](https://skillicons.dev)
 
- [![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs,npm,figma,bootstrap,react,vue,wordpress,vscode,sublime,md,ps)](https://skillicons.dev)
+ [![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs,npm,bootstrap,react,vue,wordpress,vscode,sublime,md,ps)](https://skillicons.dev)
 
  [![My Skills](https://skillicons.dev/icons?i=java,maven,spring,postman,idea,eclipse,androidstudio,nginx,mysql,sqlite,redis,mongodb)](https://skillicons.dev)
 
  [![My Skills](https://skillicons.dev/icons?i=c,cpp,cmake,qt,opencv,visualstudio,clion,py,anaconda,pytorch,pycharm)](https://skillicons.dev)
 
-![](https://capsule-render.vercel.app/api?type=waving&height=150&color=random&section=footer&reversal=true&fontAlignY=50&animation=twinkling&descAlign=50&descAlignY=50)
+![](https://capsule-render.vercel.app/api?type=waving&height=130&color=random&section=footer&reversal=true&fontAlignY=50&animation=twinkling&descAlign=50&descAlignY=50)
