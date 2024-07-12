@@ -2,7 +2,7 @@
 
 <div style="display: flex;">
  	<div style="flex: 1; padding: 10px;">
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Beaming%20Face%20with%20Smiling%20Eyes.png" alt="Beaming Face with Smiling Eyes" height="250" />
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Beaming%20Face%20with%20Smiling%20Eyes.png" alt="Beaming Face with Smiling Eyes" height="200" />
   </div>
   <div style="flex: 2; padding: 10px;">
     <p>🌏 Now，I am in <strong>Beijing-China</strong></p>
@@ -25,3 +25,4 @@
  [![My Skills](https://skillicons.dev/icons?i=c,cpp,cmake,qt,opencv,visualstudio,clion,py,anaconda,pytorch,pycharm)](https://skillicons.dev)
 
 ![](https://capsule-render.vercel.app/api?type=waving&height=150&color=random&section=footer&reversal=true&fontAlignY=50&animation=twinkling&descAlign=50&descAlignY=50)
+
