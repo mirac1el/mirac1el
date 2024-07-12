@@ -4,7 +4,7 @@
   <div style="flex: 1; padding: 10px;">
     <p>🌏 Now，I am in <strong>Beijing-China</strong></p>
     <p>🎓 University：<strong>SSPU <em>2018-2022</em></strong></p>
-    <p>💻 My skills：<strong><em>C/C++、Java、Python、Qt、OpenCV、MySQL ......</em></strong></p>
+    <p>💻 My skills：<strong><em>C/C++、Java、Python、Qt、OpenCV</em></strong></p>
     <p>🎯 Focus areas：WEB、InfoSec、IC、EDA、AI、Game ......</p>
     <p>📖 I am learning：Go、Vue.js、PyTorch ......</p>
     <p>😀<strong>This is my blog：</strong> <a href="http://www.cnmiracle.com/">http://www.cnmiracle.com/</a></p>
