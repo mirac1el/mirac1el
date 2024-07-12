@@ -1,8 +1,8 @@
 ## 👋 Hi, I’m Miracle
 
 <div style="display: flex;">
- 	<div>
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Beaming%20Face%20with%20Smiling%20Eyes.png" alt="Beaming Face with Smiling Eyes" height="200" />
+ 	<div style="flex: 1; padding: 0px;">
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Beaming%20Face%20with%20Smiling%20Eyes.png" alt="Beaming Face with Smiling Eyes" height="100" />
   </div>
   <div>
     <p>🌏 Now，I am in <strong>Beijing-China</strong></p>
